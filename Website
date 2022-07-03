@@ -1,0 +1,7 @@
+$ git clone https://github.com/GucciRemyBoi/lorenzwilkins.git
+$ echo "Hellow World" > index.
+$ git add --all
+
+$ git commit -m "Initial commit"
+
+$ git push -u origin main
